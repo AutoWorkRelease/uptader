@@ -1,4 +1,4 @@
 {
   "version": "1.4.1",
-  "notes": "- Removed SetCursorPos, Added SendInput to: left_click, right_click, move_to, drag_to, hold, macros. - Added api.dll_call"
+  "notes": "- Removed SetCursorPos, Added SendInput to: left_click, right_click, move_to, drag_to, hold, macros."
 }
